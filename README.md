@@ -1,6 +1,6 @@
 # HR AI Platform 🚀
 
-A high-fidelity, end-to-end recruitment solution that leverages **Machine Learning** for salary prediction and **LLMs (Mistral AI)** for strategic candidate matching and professional growth analysis.
+A high-fidelity, end-to-end recruitment solution that leverages **Machine Learning** for salary prediction and **LLMs ** for strategic candidate matching and professional growth analysis.
 
 ## 🌟 Key Features
 

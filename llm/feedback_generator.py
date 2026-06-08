@@ -3,7 +3,7 @@ import json
 import os
 import re
 
-MISTRAL_API_KEY = "nYmiVpuyk5ffDJNPU1E8awmD0uB1hc5G"
+MISTRAL_API_KEY = "hy2yPGQ07SeK9Gkdqpo9MHtuJN5c3qAl"
 MISTRAL_MODEL = "mistral-tiny" 
 
 STATIC_ROLES = [
